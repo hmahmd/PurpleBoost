@@ -186,8 +186,9 @@ body {
   justify-content: space-between;
   align-items: center;
 }
-.all-companies img{
-  width: 80px; height: 80px;
+.all-companies img {
+  width: 80px;
+  height: 80px;
 }
 .third-content {
   position: absolute;
@@ -378,7 +379,7 @@ body {
 .eight-section-main-content h2 {
   line-height: 0;
   margin-top: 80px;
-   font-size: 22px;
+  font-size: 22px;
 }
 .eight-section-main-content p {
   margin-top: -20px;
@@ -394,8 +395,9 @@ body {
 }
 .eight-first-content img,
 .eight-second-content img,
-.eight-third-content  img{
-  width: 80px; height: 80px;
+.eight-third-content img {
+  width: 80px;
+  height: 80px;
 }
 .nine-main-content {
   display: flex;
@@ -407,7 +409,7 @@ body {
   top: -1000px;
   text-align: center;
 }
-.nine-main-content .heading-1 h1{
+.nine-main-content .heading-1 h1 {
   margin: 30px 0px;
   font-size: 25px;
 }
@@ -680,7 +682,7 @@ h2 {
     border-radius: 10px;
     background-color: #ac6cff;
     color: #ffffff;
-     border: none;
+    border: none;
   }
   #first-btn {
     background-color: transparent;
@@ -730,7 +732,7 @@ h2 {
   .body-section-btn {
     border: none;
     display: flex;
-    gap: 12px;  
+    gap: 12px;
   }
   .body-section-btn button {
     font-weight: bold;
@@ -759,7 +761,7 @@ h2 {
     height: 430px;
     border-radius: 50px;
   }
-  #first-img{
+  #first-img {
     top: 150px;
     left: 1355px;
   }
@@ -1027,7 +1029,7 @@ h2 {
   }
   .eight-first-content img,
   .eight-second-content img,
-  .eight-third-content img{
+  .eight-third-content img {
     width: 120px;
     height: 120px;
     display: flex;
@@ -1045,7 +1047,7 @@ h2 {
     top: -1000px;
     text-align: center;
   }
-  .nine-main-content .heading-1 > h1{
+  .nine-main-content .heading-1 > h1 {
     position: relative;
     top: 200px;
   }
@@ -1059,7 +1061,8 @@ h2 {
   }
   .nine-card-content img {
     margin-top: 50px;
-    width: 100px; height: 100px;
+    width: 100px;
+    height: 100px;
   }
   .nine-card-content #frist-heading {
     margin: 30px 0px;
@@ -1088,9 +1091,11 @@ h2 {
     gap: 20px;
     font-size: 30px;
   }
-  .nine-content-section,  .nine-right-section, .nine-left-content{
+  .nine-content-section,
+  .nine-right-section,
+  .nine-left-content {
     font-weight: bolder;
-  } 
+  }
   .tenth-all-content {
     width: 100%;
     height: 850px;
@@ -1158,7 +1163,7 @@ h2 {
   .third-card-section .second-card h2,
   .third-card-section .third-card h2 {
     margin: 15px 0px;
-        font-size: 35px;
+    font-size: 35px;
   }
 
   .third-card-section .first-card li,
@@ -1185,11 +1190,11 @@ h2 {
     margin: 20px -0px;
     width: 750px;
   }
-  .heading-content h1{
+  .heading-content h1 {
     font-size: 40px;
   }
   .heading-content p {
-        font-size: 22px;
+    font-size: 22px;
     margin: 50px 15px;
   }
   .btn-content button {
@@ -1297,14 +1302,13 @@ h2 {
     align-items: center;
     margin-bottom: 30px;
   }
-  .second-content p{
+  .second-content p {
     position: relative;
     left: 300px;
   }
 }
 
 @media (max-width: 360px) {
-
   /* ===== GLOBAL RESET ===== */
   * {
     max-width: 100%;
@@ -1568,4 +1572,3 @@ h2 {
     text-align: center;
   }
 }
-
